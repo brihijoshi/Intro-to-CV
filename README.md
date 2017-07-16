@@ -31,6 +31,20 @@ pip install -r requirements.txt
 
 For Python 3.x, change pip to pip3
 
+### Running the Notebooks
+
+Fork and Clone this repository. 
+
+```sh
+cd REPO_NAME
+```
+Make sure you have Jupyter Notebook
+
+Run: 
+```sh
+jupyter notebook
+```
+Your notebooks should automatically open in your browser. If they do not, open http://localhost:8888/ on your browser
  
 
 
